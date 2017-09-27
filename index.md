@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Jonny's Website
 
 You can use the [editor on GitHub](https://github.com/jonnyf89/jonnyf89.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
